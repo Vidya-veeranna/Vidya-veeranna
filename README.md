@@ -32,6 +32,10 @@
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-apps" target="_blank" rel="noreferrer"> <img src="https://tse2.mm.bing.net/th?id=OIP.Nff5wbnmaQLMWNwoucIfZwHaHa&pid=Api&P=0&h=180" alt="PowerApps" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-automate" target="_blank" rel="noreferrer"> <img src="https://smartbridge.com/modernization/wp-content/uploads/sites/11/PowerAutomate-2020-icon-1024x1024-1-1024x1024.png" alt="PowerAutomate" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="40" height="40"/> </a>
+
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
