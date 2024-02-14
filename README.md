@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Selenium**
 
-- 👨‍💻 All of my projects are available at [in this github profile](in this github profile)
+- 👨‍💻 All of my projects are available at in this github profile
 
 - 📫 How to reach me **vidyagowda191@gmail.com**
 
