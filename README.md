@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm vidya v</h1>
 <h3 align="center">A passionate frontend developer and Automation tester from India</h3>
 
+<img align="right" src="github_gif.gif" />
 - 🔭 I’m currently working on **Automation testing at Infosys**
 
 - 🌱 I’m currently learning **Selenium**
@@ -9,7 +10,7 @@
 
 - 📫 How to reach me **vidyagowda191@gmail.com**
 
-<img align="right" src="github_gif.gif" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
