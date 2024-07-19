@@ -4,7 +4,7 @@
 <img align="right" src="github_gif.gif" style="width:300px; height:250px;"/>
 - 🔭 I’m currently working on **Automation testing at Infosys**
 
-- 🌱 I’m currently learning **Selenium**
+- 🌱 I’m currently learning **Playwrite** and I have a good knowledge on **Selenium**
 
 - 👨‍💻 All of my projects are available at in this github profile
 
