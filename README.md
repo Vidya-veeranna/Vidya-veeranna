@@ -23,6 +23,7 @@
 <p align="left">
 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+<a href="https://www.playwright.org" target="_blank" rel="noreferrer"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="selenium" width="40" height="40"/> </a>
 <a href="https://www.tutorialspoint.com/cucumber/index.htm" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/e5cf0c82-64e5-41a9-a8dd-ed0bb14aff6f" alt="BDDCUCUMBER" width="40" height="40"/></a>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> 
   <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/> 
@@ -35,10 +36,8 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="" alt="maven" width="40" height="40"/> 
-  </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="c#" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-apps" target="_blank" rel="noreferrer"> <img src="https://tse2.mm.bing.net/th?id=OIP.Nff5wbnmaQLMWNwoucIfZwHaHa&pid=Api&P=0&h=180" alt="PowerApps" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
