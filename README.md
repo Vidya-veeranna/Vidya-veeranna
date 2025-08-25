@@ -23,6 +23,13 @@
 <p align="left">
 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+<a href="https://www.tutorialspoint.com/cucumber/index.htm" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/e5cf0c82-64e5-41a9-a8dd-ed0bb14aff6f" alt="BDDCUCUMBER" width="40" height="40"/></a>
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> 
+  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/> 
+</a> 
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/> 
+</a>
 <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
