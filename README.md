@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm vidya v</h1>
-<h3 align="center">A passionate frontend developer and Automation tester from India</h3>
+<h3 align="center">A passionate Automation tester from India</h3>
 
 <img align="right" src="github_gif.gif" style="width:300px; height:250px;"/>
-- 🔭 I’m currently working on **Automation testing at Infosys**
+- 🔭 I’m currently working as **Software Quality Engineer at Infosys**
 
-- 🌱 I’m currently learning **Playwrite** and I have a good knowledge on **Selenium**
+- 🌱 I’m currently learning **Playwright** and I have a good knowledge on **Selenium**
 
 - 👨‍💻 All of my projects are available at in this github profile
 
